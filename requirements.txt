@@ -1,0 +1,34 @@
+# ── Core Framework ──────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── LangChain + LLM ─────────────────────────────────────────────
+langchain>=0.1.16
+langchain-community>=0.0.36
+langchain-core>=0.1.46
+
+# ── Web Scraping ─────────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+fake-useragent>=1.4.0
+
+# ── Data & Visualisation ─────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.26.0
+plotly>=5.18.0
+
+# ── NLP / Sentiment ──────────────────────────────────────────────
+textblob>=0.17.1
+nltk>=3.8.1
+
+# ── Brochure Analysis ────────────────────────────────────────────
+Pillow>=10.0.0
+pytesseract>=0.3.10
+PyPDF2>=3.0.1
+
+# ── Notifications ────────────────────────────────────────────────
+twilio>=8.0.0
+
+# ── Security / Auth ──────────────────────────────────────────────
+bcrypt>=4.0.0
+python-dotenv>=1.0.0
